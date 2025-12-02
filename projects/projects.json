@@ -1,0 +1,34 @@
+[
+  {
+    "name": "E-tendering System",
+    "desc": "This secure, scalable platform empowers government & private sectors",
+    "image": "etendering",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/in/talal-khan-65069b25b/recent-activity/all/",
+      "code": "https://github.com/Marwat07"
+    }
+  },
+  {
+    "name": "E-commerce Website",
+    "desc": "I've built a fully functional e-commerce platform with hands-free voice control",
+    "image": "ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/in/talal-khan-65069b25b/recent-activity/all/",
+      "code": "https://github.com/Marwat07"
+    }
+  },
+  {
+    "name": "Road Sign Detection System",
+    "desc": "A real-time YOLOv8-powered traffic sign detector with FastAPI backend + Gradio frontend",
+    "image": "roadsign",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.linkedin.com/in/talal-khan-65069b25b/recent-activity/all/",
+      "code": "https://github.com/Marwat07"
+    }
+  }
+  
+  
+]
